@@ -14,6 +14,9 @@ git clone https://github.com/altenderfer/musicfeeder-midi-analyzer.git
 cd musicfeeder-midi-analyzer
 ```
 3. Install the required Python libraries:
+```
+pip install music21
+```
 
 # Usage
 
