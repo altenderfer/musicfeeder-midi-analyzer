@@ -56,7 +56,7 @@ See below example:
       },
       "9.75": {
         "key": "C#Minor",
-        "roman_numeral": "vi"
+        "roman_numeral": "bvi"
       },
       "10.5": {
         "key": "C#Minor",
@@ -64,11 +64,11 @@ See below example:
       },
       "29.75": {
         "key": "C#Minor",
-        "roman_numeral": "vii"
+        "roman_numeral": "bvii"
       },
       "31.75": {
         "key": "C#Minor",
-        "roman_numeral": "vii"
+        "roman_numeral": "bvii"
       },
       "32.25": {
         "key": "C#Minor",
@@ -76,7 +76,63 @@ See below example:
       },
       "32.75": {
         "key": "C#Minor",
+        "roman_numeral": "bv"
+      },
+      "33.0": {
+        "key": "C#Minor",
+        "roman_numeral": "iii"
+      },
+      "33.5": {
+        "key": "C#Minor",
+        "roman_numeral": "bvii"
+      },
+      "35.25": {
+        "key": "C#Minor",
+        "roman_numeral": "bvii"
+      },
+      "35.75": {
+        "key": "C#Minor",
+        "roman_numeral": "iii"
+      },
+      "36.25": {
+        "key": "C#Minor",
+        "roman_numeral": "bv"
+      },
+      "36.5": {
+        "key": "C#Minor",
+        "roman_numeral": "iii"
+      },
+      "37.0": {
+        "key": "C#Minor",
+        "roman_numeral": "bvii"
+      },
+      "37.75": {
+        "key": "C#Minor",
         "roman_numeral": "v"
+      },
+      "38.75": {
+        "key": "C#Minor",
+        "roman_numeral": "biv"
+      },
+      "39.5": {
+        "key": "C#Minor",
+        "roman_numeral": "iv"
+      },
+      "45.25": {
+        "key": "C#Minor",
+        "roman_numeral": "biv+#5"
+      },
+      "47.0": {
+        "key": "C#Minor",
+        "roman_numeral": "iv"
+      },
+      "47.75": {
+        "key": "C#Minor",
+        "roman_numeral": "biii"
+      },
+      "48.25": {
+        "key": "C#Minor",
+        "roman_numeral": "i"
       }
     }
   }
