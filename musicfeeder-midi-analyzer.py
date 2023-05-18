@@ -74,7 +74,7 @@ def extract_roman_numerals(part, key_changes, tempo_changes, resolution):
                 current_key = key.Key(current_key)
             rn_obj = rn(chord, current_key)
             rn_key = current_key.tonic.name + current_key.mode.capitalize()
-            roman_numerals[round_offset(chord.offset, tempo_changes, resolution)] = {"key": rn_key, "roman_numeral": rn_obj.romanNumeralAlone}
+            roman_numerals[round_offset(chord.offset, tempo_changes, resolution)] = {"key": rn_key, "roman_numeral": rn_obj.figure}
     return roman_numerals
 
 
